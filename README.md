@@ -1,5 +1,9 @@
+![image](https://github.com/user-attachments/assets/6eaf1d2d-3b0c-4e6c-82a8-525e642462b1)
+
 # 💫 Hi 👋, I'm Manan Bansal
 **A passionate Software Developer || front-end Engineer**
+ a tech enthusiast and developer passionate about building impactful solutions that bridge technology and real-world needs. 🚀<br><br>💻 What I Do:<br>🤖 Specializing in Computer Vision, Distributed Systems, and Performance Optimization<br>📊 Building projects that process large-scale data to uncover insights and optimize performance<br>🌱 Continuously exploring new tools and frameworks to expand my skillset<br><br>🎯 What Drives Me:<br>Creating meaningful, real-world applications that make a difference 🌍<br>Collaborating with like-minded individuals to innovate and solve challenging problems 🤝<br>Sharing knowledge and fostering growth within the tech community 🌟<br><br>📬 Let's Connect:<br>If you’re into brainstorming ideas, collaborating on projects, or just chatting about tech, feel free to connect!
+
 
 Email Me 👉 ✉️ **bansalmanan007@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
@@ -24,11 +28,11 @@ Email Me 👉 ✉️ **bansalmanan007@gmail.com** For Collaboration/Project or A
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=mananbansal77&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-<!-- Snake Game Repo View -->
-
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Akshat-Raii/Akshat-Raii/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Akshat-Raii/Akshat-Raii/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Akshat-Raii/Akshat-Raii/output/github-snake.svg" />
+</picture>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
