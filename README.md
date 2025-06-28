@@ -1,4 +1,6 @@
-![image](https://github.com/user-attachments/assets/6eaf1d2d-3b0c-4e6c-82a8-525e642462b1)
+
+![Lofi Image](https://raw.githubusercontent.com/mananbansal77/mananbansal77/main/upscalemedia-transformed.jpeg)
+
 
 # 💫 Hi 👋, I'm Manan Bansal
 **A passionate Software Developer || front-end Engineer**
