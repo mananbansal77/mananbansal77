@@ -12,11 +12,7 @@ Email Me 👉 ✉️ **bansalmanan007@gmail.com** For Collaboration/Project or A
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mananbansal77) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bansalmanan007@gmail.com) 
-<!-- Snake Game Repo View -->
 
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
 
 
 # 💻 Tech Stack:
@@ -28,6 +24,11 @@ Email Me 👉 ✉️ **bansalmanan007@gmail.com** For Collaboration/Project or A
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=mananbansal77&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
