@@ -4,6 +4,10 @@
 
 # 💫 Hi 👋, I'm Manan Bansal
 **A passionate Software Developer || front-end Engineer**
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=mananbansal77&label=Profile%20views&color=0e75b6&style=flat" alt="mananbansal77" />
+</p>
+
  
 Email Me 👉 ✉️ **bansalmanan007@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
