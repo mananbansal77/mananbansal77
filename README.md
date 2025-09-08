@@ -1,5 +1,4 @@
 
-![My Gif](https://github.com/mananbansal77/mananbansal77/blob/main/648eb88eea3743257d160513f47c04531-ezgif.com-video-to-gif-converter.gif?raw=true)
 
 
 # 💫 Hi 👋, I'm Manan Bansal
