@@ -2,7 +2,10 @@
 
 
 # 💫 Hi 👋, I'm Manan Bansal
-**A passionate Software Developer || front-end Engineer**
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=&center=true&vCenter=true&width=435&lines=Fullstack+Dev+%7C+React+Enthusiast;Student+@Graphic+Era+University;" alt="Typing SVG" />
+</div>
+
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=mananbansal77&label=Profile%20views&color=0e75b6&style=flat" alt="mananbansal77" />
 </p>
@@ -15,8 +18,9 @@ Email Me 👉 ✉️ **bansalmanan007@gmail.com** For Collaboration/Project or A
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** bansalmanan007@gmail.com
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mananbansal77) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bansalmanan007@gmail.com) 
-
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mananbansal77) 
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bansalmanan007@gmail.com) 
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=vercel&logoColor=white)](https://portfolio-vu93.vercel.app/)
 
 
 # 💻 Tech Stack:
@@ -56,16 +60,16 @@ Email Me 👉 ✉️ **bansalmanan007@gmail.com** For Collaboration/Project or A
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=mananbansal77&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<div >
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Akshat-Raii/Akshat-Raii/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Akshat-Raii/Akshat-Raii/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/Akshat-Raii/Akshat-Raii/output/github-snake.svg" />
-</picture>
+</picture
+</div>
 
 
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=mananbansal77&icon=0&color=0)](https://visitcount.itsvg.in)
